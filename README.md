@@ -1,4 +1,5 @@
 # poker_web_app
+Simple django app powered by pywebio
 
 # tested with 
 nginx
