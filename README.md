@@ -2,8 +2,10 @@
 Simple django app powered by pywebio
 
 ## tested with 
-nginx
-gunicorn
+'''
+-nginx
+-gunicorn
+'''
 
 # req
 asgiref==3.4.1
